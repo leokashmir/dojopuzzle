@@ -15,4 +15,4 @@ A sua tarefa é, dado um texto qualquer, encontre a quantidade de buracos nele.
  - Adicionar um arquivo com o nome teste.txt no pasta resource do projeto.
  - Executar a classe Main como JavaApplication
  - Resultado é exibido no console da IDE.
- =======================================================================
+========================================================================
