@@ -1,5 +1,5 @@
 # dojopuzzle
-Desfaio do site Dojopuzzle
+Desafaio do site Dojopuzzle
 
 Se você pensar em um papel como um plano e uma letra como uma marcação neste plano, 
 então estas letras dividem o plano em regiões. Por exemplo, as letras A, D e O dividem o 
