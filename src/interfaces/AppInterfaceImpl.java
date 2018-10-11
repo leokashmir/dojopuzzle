@@ -18,7 +18,7 @@ public class AppInterfaceImpl extends Utils  implements AppInterface {
 		
 		
 		try {
-			Path arquivo = Paths.get("resoucer\\texto.txt");
+			Path arquivo = Paths.get("resource\\texto.txt");
 			
 			Files.lines(arquivo).forEach(linha -> {
 				Arrays.asList(linha.split("")).forEach(letra-> {
@@ -27,7 +27,7 @@ public class AppInterfaceImpl extends Utils  implements AppInterface {
 				
 			});
 			
-			System.out.println(" Soma == > " + soma);
+			System.out.println(" Texto possui == > " + soma + " buracos.");
 		
 		} catch (IOException | NullPointerException e) {
 			System.out.println(e.getMessage());
