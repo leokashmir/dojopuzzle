@@ -10,9 +10,9 @@ igual a soma dos buracos nas palavras dele.
 A sua tarefa é, dado um texto qualquer, encontre a quantidade de buracos nele.
 
 
-=======================================================================================================================================
+===================================================================================================
  - Para Testar, basta baixar o codigo, importar para Eclispe ou Sua ide de preferencia. 
- - Adicionar um arquivo texto no pasta resource do projeto.
+ - Adicionar um arquivo com o nome teste.txt no pasta resource do projeto.
  - Executar a classe Main como JavaApplication
  - Resultado é exibido no console da IDE.
- ======================================================================================================================================
+ ==================================================================================================
