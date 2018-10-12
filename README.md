@@ -8,6 +8,9 @@ Outras letras como B possuem 2 buracos e letras como C e E não possuem buracos.
 Deste modo podemos considerar que o número de buracos em um texto é 
 igual a soma dos buracos nas palavras dele.
 A sua tarefa é, dado um texto qualquer, encontre a quantidade de buracos nele.
+Deste modo podemos considerar que o número de buracos em um texto é igual a soma dos buracos nas palavras dele.
+
+A tarefa é, dado um texto qualquer, encontre a quantidade de buracos nele.
 
 
  =======================================================================
